@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://github.com/shanaerevell/task-tracker#readme
+    about: Read the docs before opening an issue
+  - name: Stack Overflow
+    url: https://stackoverflow.com/questions/tagged/github
+    about: Ask the community for help
